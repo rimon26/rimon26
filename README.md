@@ -139,43 +139,30 @@ I love turning learning into a game with characters, quests, and challenges.
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Let's Build Something Amazing Together
+
+If you're looking for a developer who values clean code, scalable architecture, and thoughtful design, I'd love to connect.
+
+### 💼 Available For
+
+- Full Stack Web Development
+- Backend Development (Node.js & Express)
+- REST API Development
+- UI/UX & Landing Page Design
+- Business Websites
+- Custom Web Applications
+- Freelance & Remote Opportunities
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rimon26&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimon26&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+  <a href="mailto:almahmudrimon26@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=rimon26&theme=tokyonight&hide_border=true"/>
-</p>
+  <a href="https://github.com/rimon26">
+    <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github">
+  </a>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rimon26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Top Contributed Repositories
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=rimon26&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=rimon26&icon=5&color=6"/>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
